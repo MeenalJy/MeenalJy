@@ -1,4 +1,4 @@
-### Hi there Tech enthusiats👋
+### Hi there Tech enthusiasts👋
 I'm Meenal Jyotika, the proud owner of this Github account. 😊
 - 🔭 I’m currently working on DevOps Project, 
 - 🌱 I’m currently learning ... DevOps & Cloud Computing
