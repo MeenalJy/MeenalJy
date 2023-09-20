@@ -1,4 +1,4 @@
-### Hi there Tech enthusiasts👋
+### Hello, Tech Trailblazers! Welcome to the Digital Realm!🚀💻
 - 💡 I'm Meenal Jyotika, a DevOps Enthusiast and Avid Learner on a mission to become the world's funniest DevOps engineer. I believe that laughter is the best continuous integration for life's code, and I'm here to automate humor deployment in the tech world!😊
 - 🔭 Working on - the 90 Days of DevOps challenge, Terraform Week Challenge, and Personal Projects
 - 🌱 Tech Stack - DevOps & Amazon Web Services
