@@ -1,5 +1,5 @@
 ### Hi there Tech enthusiasts👋
-I'm Meenal Jyotika, I'm a DevOps Enthusiast and Avid Learner on a mission to become the world's funniest DevOps engineer. I believe that laughter is the best continuous integration for life's code, and I'm here to automate humor deployment in the tech world, one joke at a time!😊
+I'm Meenal Jyotika, I'm a DevOps Enthusiast and Avid Learner on a mission to become the world's funniest DevOps engineer. I believe that laughter is the best continuous integration for life's code, and I'm here to automate humor deployment in the tech world!😊
 - 🔭 I’m currently working on - the 90 Days of DevOps challenge, Terraform Week Challenge and Personal Projects
 - 🌱 I’m currently learning - DevOps & Cloud Computing
 - 👯 I’m looking to collaborate on - DevOps Projects. 
