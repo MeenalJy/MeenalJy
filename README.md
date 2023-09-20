@@ -1,7 +1,7 @@
 ## Hello, Tech Trailblazers! Welcome to the Digital Realm! 🚀💻
 
 
-DevOps enthusiast on a journey to streamline software delivery 🚀 | Automating, optimizing, and demystifying the tech world, one commit at a time ⚙️ | Learning something new every day to build better, more resilient systems 💡 | Let's connect and code together! 👋
+DevOps enthusiast on a journey to streamline software delivery 🚀 | Automating, optimizing, and demystifying the tech world, one commit at a time ⚙️ | Learning something new every day to build better, more resilient systems 💡 | Let's connect and code together!👋
 
 
 ## 💡 Working on:
