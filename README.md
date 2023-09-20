@@ -16,7 +16,7 @@ DevOps enthusiast on a journey to streamline software delivery 🚀 Automating, 
 
 
 ## ⚡ Fun fact:
-- I once taught a computer to do the Cha-Cha! 🕺💃 No, seriously, I automated a dance routine in code. Turns out, even servers have some fancy footwork when you program them right. 😄👾 #DevOpsDanceMaster
+- I once accidentally merged a pizza recipe into our production code instead of a YAML file. 🍕🐍 Now our DevOps pipeline has a delicious pizza branch that automatically deploys pepperoni slices to our staging server! 🍕🚀 #CodeAndCheeseLover
 
 <!--
 **MeenalJy/MeenalJy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
