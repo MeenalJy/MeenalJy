@@ -5,9 +5,7 @@ DevOps enthusiast on a journey to streamline software delivery 🚀 Automating, 
 
 
 ## 💡 Working on:
-- 90 Days of DevOps challenge,
-- Terraform Week Challenge,
-- and Personal Projects
+- Executing DevOps practices and implementing projects on Amazon Web Services (AWS)
 
 
 ## 🌱 Learning:
