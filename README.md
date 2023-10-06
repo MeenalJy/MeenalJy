@@ -5,7 +5,7 @@ DevOps enthusiast on a journey to streamline software delivery, Automating, opti
 
 
 ## 💡 Working on:
-- Executing DevOps practices and implementing projects on Amazon Web Services (AWS)
+Executing DevOps practices and implementing projects on Amazon Web Services (AWS)
 
 
 ## 🌱 Learning:
@@ -17,7 +17,6 @@ DevOps enthusiast on a journey to streamline software delivery, Automating, opti
 
 
 I once accidentally merged a pizza recipe into our production code instead of a YAML file. Now our DevOps pipeline has a delicious pizza branch that automatically deploys pepperoni slices to our staging server! 
-
 
 #CodeAndCheeseLover
 
