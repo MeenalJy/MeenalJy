@@ -4,16 +4,16 @@
 DevOps enthusiast on a journey to streamline software delivery, Automating, optimizing, and demystifying the tech world, one commit at a time. Learning something new every day to build better, more resilient systems  
 
 
-## 💡 Working on:
+##  Working on💡:
 Executing DevOps practices and implementing projects on Amazon Web Services (AWS)
 
 
-## 🌱 Learning:
+##  Learning🌱:
 - DevOps
 - Amazon Web Services
 
 
-## ⚡ Fun fact:
+##  Fun fact⚡:
 
 
 I once accidentally merged a pizza recipe into our production code instead of a YAML file. Now our DevOps pipeline has a delicious pizza branch that automatically deploys pepperoni slices to our staging server! 
