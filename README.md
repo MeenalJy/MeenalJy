@@ -16,7 +16,7 @@ Executing DevOps practices and implementing projects on Amazon Web Services (AWS
 ##  Fun fact⚡
 
 
-I once accidentally merged a pizza recipe into our production code instead of a YAML file. Now our DevOps pipeline has a delicious pizza branch that automatically deploys pepperoni slices to our staging server! 
+I once accidentally merged a pizza recipe into my production code instead of a YAML file. Now my DevOps pipeline has a delicious pizza branch that automatically deploys pepperoni slices to the staging server! 
 
 
 <!--
