@@ -1,22 +1,19 @@
 ## Hello, Tech Trailblazers! Welcome to the Digital Realm! 🚀💻
 
 
-DevOps enthusiast on a journey to streamline software delivery, Automating, optimizing, and demystifying the tech world, one commit at a time. Learning something new every day to build better, more resilient systems  
+I'm a DevOps engineer on a journey to streamline Software Delivery, Automating, Optimizing, Demystifying the tech world & building better & more resilient systems. Learning daily keeps the mind agile and the spirit young.
 
 
 ##  Working on💡
-Executing DevOps practices and implementing projects on Amazon Web Services (AWS)
+- DevOps Projects
+- Cloud Platforms such as Amazon Web Services, Azure
 
-
-##  Learning🌱
-- DevOps
-- Amazon Web Services
 
 
 ##  Fun fact⚡
 
 
-I once accidentally merged a pizza recipe into my production code instead of a YAML file. Now my DevOps pipeline has a delicious pizza branch that automatically deploys pepperoni slices to the staging server! 
+I accidentally merged a pizza recipe into my production code instead of a YAML file. Now my DevOps pipeline has a delicious pizza branch that automatically deploys pepperoni slices to the staging server! 
 
 
 <!--
