@@ -1,4 +1,4 @@
-## Hello, Tech Trailblazers! Welcome to the Digital Realm! 🚀💻
+## Hello, everyone! Welcome to my Digital Realm! 🚀💻
 
 
 I'm a DevOps engineer on a journey to streamline Software Delivery, Automating, Optimizing, Demystifying the tech world & building better & more resilient systems. Learning daily keeps the mind agile and the spirit young.
