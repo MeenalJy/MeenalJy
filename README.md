@@ -1,8 +1,8 @@
-## Hello, everyone! 
+## Hello, Everyone! 
 ## Welcome to my Digital Realm! 🚀💻
 
 
-I'm a DevOps engineer on a journey to streamline Software Delivery, Automating, Optimizing, Demystifying the tech world & building better & more resilient systems. Learning daily keeps the mind agile and the spirit young.
+I'm a DevOps engineer on a journey to streamline Software Delivery, Automating, Optimizing, Demystifying the tech world & building better & more resilient systems. Why intervene manually when you can trigger things automatically😎
 
 
 ##  Working on💡
