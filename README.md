@@ -1,5 +1,5 @@
 ## Hello, Everyone! 
-## Welcome to my Digital Realm! 🚀💻
+## Welcome to my GitHub! 🚀💻
 
 
 I'm a DevOps engineer on a journey to streamline Software Delivery, Automating, Optimizing, Demystifying the tech world & building better & more resilient systems. Why intervene manually when you can trigger things automatically😎
@@ -7,7 +7,8 @@ I'm a DevOps engineer on a journey to streamline Software Delivery, Automating, 
 
 ##  Working on💡
 - DevOps Projects
-- Cloud Platforms such as Amazon Web Services, Azure
+- Amazon Web Services
+- Microsoft Azure
 
 
 
