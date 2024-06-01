@@ -1,5 +1,4 @@
-## Hello, Everyone! 
-## Welcome to my GitHub! 🚀💻
+# Welcome to my GitHub!🚀💻
 
 
 I'm a DevOps engineer on a journey to streamline Software Delivery, Automating, Optimizing, Demystifying the tech world & building better & more resilient systems. Why intervene manually when you can trigger things automatically😎
