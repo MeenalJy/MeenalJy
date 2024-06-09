@@ -1,20 +1,30 @@
 # Welcome to my GitHub!🚀💻
-
-
 I'm a DevOps engineer on a journey to streamline Software Delivery, Automating, Optimizing, Demystifying the tech world & Building better & more Resilient systems.
-
 
 ## Tools I Work With
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="40"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="40"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" height="40"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" height="40"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" height="40"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" height="40"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" height="40"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" height="40"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" height="40"/>
+### Operating Systems
+![Linux](https://img.icons8.com/color/48/000000/linux.png)
+
+### Containerization & Orchestration
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
+![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
+
+### Infrastructure as Code
+![Terraform](https://img.icons8.com/color/48/000000/terraform.png)
+![Ansible](https://img.icons8.com/color/48/000000/ansible.png)
+
+### Cloud Providers
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+![Microsoft Azure](https://img.icons8.com/color/48/000000/azure-1.png)
+
+### CI/CD
+![CI/CD](https://img.icons8.com/ios-filled/50/000000/continuous-integration.png)
+![GitHub Actions](https://img.icons8.com/color/48/000000/github-actions.png)
+
+### Monitoring
+![Prometheus](https://img.icons8.com/color/48/000000/prometheus.png)
+![Grafana](https://img.icons8.com/color/48/000000/grafana.png)
 
 
 ##  My Motto🎯
