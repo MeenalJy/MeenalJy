@@ -21,6 +21,9 @@ Why intervene manually when you can trigger things automatically😎, because Ti
 I accidentally merged a pizza recipe into my production code instead of a YAML file. Now my DevOps pipeline has a delicious pizza branch that automatically deploys pepperoni slices to the staging server! 
 
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeenalJy&theme=default)
+
 <!--
 **MeenalJy/MeenalJy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
