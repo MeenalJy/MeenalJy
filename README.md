@@ -33,8 +33,8 @@ Time is money 💰, so streamline it dramatically!
 
 ## Contact Me
 - 📫 **Email:** meenaljyotikaa@gmail.com
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/meenal-jyotika)
-- 🌐 **E-portfolio:** [Your Personal Website](https://eportfolio.mygreatlearning.com/meenal-jyotika)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/meenal-jyotika)
+- 🌐 **E-portfolio:** (https://eportfolio.mygreatlearning.com/meenal-jyotika)
 <!--
 **MeenalJy/MeenalJy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
