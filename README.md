@@ -29,9 +29,6 @@ Time is money 💰, so streamline it dramatically!
 </p>
 
 ---
-
-## Contact Me
-- 💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/meenal-jyotika)
 <!--
 **MeenalJy/MeenalJy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
