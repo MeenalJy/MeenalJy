@@ -26,15 +26,12 @@ Time is money 💰, so streamline it dramatically!
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeenalJy&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=MeenalJy&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 ---
 
 ## Contact Me
-- 📫 **Email:** [Mail me here](meenaljyotikaa@gmail.com
-- 💼 **LinkedIn:** [Let's connect over here](https://www.linkedin.com/in/meenal-jyotika)
-- 🌐 **E-portfolio:** [Know about my latest learnings](https://eportfolio.mygreatlearning.com/meenal-jyotika)
+- 💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/meenal-jyotika)
 <!--
 **MeenalJy/MeenalJy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
