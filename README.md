@@ -1,7 +1,6 @@
 # Welcome to My GitHub! 🚀💻
 I'm a DevOps engineer on a mission to streamline software delivery, automate processes, optimize performance, and build resilient systems.
 
----
 
 ## Tools I Work With
 
@@ -18,7 +17,6 @@ I'm a DevOps engineer on a mission to streamline software delivery, automate pro
     <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
 
----
 
 ## My Motto 🎯
 Why intervene manually when you can trigger things automatically? 😎  
@@ -28,10 +26,15 @@ Time is money 💰, so streamline it dramatically!
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeenalJy&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MeenalJy&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 ---
 
+## Contact Me
+- 📫 **Email:** meenaljyotikaa@gmail.com
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/meenal-jyotika)
+- 🌐 **E-portfolio:** [Your Personal Website](https://eportfolio.mygreatlearning.com/meenal-jyotika)
 <!--
 **MeenalJy/MeenalJy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
