@@ -22,13 +22,7 @@ I'm a DevOps engineer on a mission to streamline software delivery, automate pro
 Why intervene manually when you can trigger things automatically? 😎  
 Time is money 💰, so streamline it dramatically!
 
----
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeenalJy&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-
----
 <!--
 **MeenalJy/MeenalJy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
