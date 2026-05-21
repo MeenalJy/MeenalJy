@@ -33,22 +33,13 @@
 
 ---
 
-## 🏗️ What I Build
+## What I Build
 
 | Engineering Focus | Description |
 | :--- | :--- |
 | **AWS Governance** | Hardening cloud environments via strict IAM policies and Service Control Policies (SCPs). |
 | **Serverless Operations** | Writing idempotent Python scripts for task automation (e.g., bulk Lambda state management). |
 | **CI/CD Pipelines** | Streamlining application deployments via GitHub Actions and automated resource provisioning. |
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeenalJy&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeenalJy&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
 
 ---
 
