@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Core Tech Stack
+### Core Tech Stack
 
 * **Cloud:** AWS (ECS, Lambda, Route53, ALB, S3, IAM, CloudWatch)
 * **IaC & Automation:** Terraform, Python, Shell Scripting, AWS CLI
