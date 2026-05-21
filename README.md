@@ -1,46 +1,30 @@
-# Hello, I'm Meenal Jyotika.
+# Meenal Jyotika
+## An Enthusiast Cloud DevOps Engineer from India
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/meenal-jyotika/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://meenaljyotika.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white"/></a>
-</p>
+**About Me**
+* Cloud & DevOps Engineer with 5+ years of hands-on experience in AWS Architecture, Serverless & Infrastructure Automation
+* Published technical insights on DevOps, Cloud Automation, and real-world infrastructure on Hashnode
+* Passionate about optimizing cloud costs and building secure, zero-trust cloud setups
+* Strong focus on real-world problem-solving & production-grade systems
 
-> **Cloud & DevOps Engineer with 5+ years of experience specializing in AWS architecture, serverless automation, and infrastructure security.**
+ **What I Do**
+* Hardening cloud environments via robust IAM structures and Service Control Policies (SCPs)
+* Developing utility automation using Shell scripting and AWS CLI for ad-hoc cloud resources
+* Integrating modern AI workflows and streamlining deployments for frameworks like Strapi on AWS ECS
+* Implementing automated multi-account baseline tagging and credit-isolated AWS structures
+* Designing comprehensive "Playbook" documentation for repeatable engineering processes
 
----
-
-## Core Tech Stack
-
-### Cloud & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-<details>
-  <summary>Focus: IAM Least Privilege, SCPs, Multi-Account Architecture, ECS, Route53, ALBs.</summary>
-</details>
-
-### Automation & Scripting
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
-<details>
-  <summary>Focus: Lambda versioning/snapshotting, CLI utility resources, secure API integrations.</summary>
-</details>
+**Important Links**
+* I regularly write articles on https://meenaljyotika.hashnode.dev
+* Open to collaborate on Cloud Architecture & DevOps Projects
+* How to reach me: https://www.linkedin.com/in/meenal-jyotika/
+* Fun fact: I focus heavily on writing clean, reusable automation scripts—why handle things manually when you can automate it securely?
 
 ---
 
-## What I Build
+### 🛠️ Core Tech Stack
 
-| Engineering Focus | Description |
-| :--- | :--- |
-| **AWS Governance** | Hardening cloud environments via strict IAM policies and Service Control Policies (SCPs). |
-| **Serverless Operations** | Writing idempotent Python scripts for task automation (e.g., bulk Lambda state management). |
-| **CI/CD Pipelines** | Streamlining application deployments via GitHub Actions and automated resource provisioning. |
-
----
-
-**Motto:** Build it securely, document it clearly, and automate the rest.
+* **Cloud:** AWS (ECS, Lambda, Route53, ALB, S3, IAM, CloudWatch)
+* **IaC & Automation:** Terraform, Python, Shell Scripting, AWS CLI
+* **CI/CD:** GitHub Actions
+* **OS:** Linux (Ubuntu, RHEL, Amazon Linux)
