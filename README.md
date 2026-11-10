@@ -1,30 +1,41 @@
-# Meenal Jyotika
-## An Enthusiast Cloud DevOps Engineer from India
+# Meenal Jyotika | Cloud & DevOps Engineer
 
-**About Me**
-* Cloud & DevOps Engineer with 5+ years of hands-on experience in AWS Architecture, Serverless & Infrastructure Automation
-* Published technical insights on DevOps, Cloud Automation, and real-world infrastructure on Hashnode
-* Passionate about optimizing cloud costs and building secure, zero-trust cloud setups
-* Strong focus on real-world problem-solving & production-grade systems
+**AWS • Infrastructure as Code • CI/CD • Cloud Security**
 
- **What I Do**
-* Hardening cloud environments via robust IAM structures and Service Control Policies (SCPs)
-* Developing utility automation using Shell scripting and AWS CLI for ad-hoc cloud resources
-* Integrating modern AI workflows and streamlining deployments for frameworks like Strapi on AWS ECS
-* Implementing automated multi-account baseline tagging and credit-isolated AWS structures
-* Designing comprehensive "Playbook" documentation for repeatable engineering processes
+I build secure, reproducible cloud infrastructure and automation, and share practical engineering lessons with the community.
 
-**Important Links**
-* I regularly write articles on https://meenaljyotika.hashnode.dev
-* Open to collaborate on Cloud Architecture & DevOps Projects
-* How to reach me: https://www.linkedin.com/in/meenal-jyotika/
-* Fun fact: I focus heavily on writing clean, reusable automation scripts—why handle things manually when you can automate it securely?
+[LinkedIn](https://www.linkedin.com/in/meenal-jyotika/) · [Technical blog](https://meenaljyotika.hashnode.dev)
 
----
+## Engineering focus
 
-### Core Tech Stack
+- **Cloud engineering:** AWS, ECS, Lambda, S3, IAM, CloudWatch and multi-account governance.
+- **Infrastructure as Code:** Terraform, reusable modules and automated infrastructure delivery.
+- **Delivery automation:** GitHub Actions, Python, Bash and AWS CLI.
+- **Cloud security:** Least-privilege IAM, service control policies and secure deployment practices.
+- **Learning and building:** Kubernetes, GitOps and production-grade CI/CD.
 
-* **Cloud:** AWS (ECS, Lambda, Route53, ALB, S3, IAM, CloudWatch)
-* **IaC & Automation:** Terraform, Python, Shell Scripting, AWS CLI
-* **CI/CD:** GitHub Actions
-* **OS:** Linux (Ubuntu, RHEL, Amazon Linux)
+## Featured projects
+
+| Project | Focus |
+| --- | --- |
+| [admin-access-detector](https://github.com/MeenalJy/admin-access-detector) | Cloud security project |
+| [Ansible_Arena](https://github.com/MeenalJy/Ansible_Arena) | Configuration management practice |
+| [docker-capabilities-demo](https://github.com/MeenalJy/docker-capabilities-demo) | Container capabilities demonstration |
+| [90DaysOfDevOps](https://github.com/MeenalJy/90DaysOfDevOps) | DevOps learning journey |
+| [ec2-ssh-httpd-website](https://github.com/MeenalJy/ec2-ssh-httpd-website) | AWS EC2 and web server deployment |
+
+## AWS certifications
+
+- AWS Certified Solutions Architect – Associate
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+
+## Current roadmap
+
+- Build a reproducible Kubernetes platform with Terraform and CI/CD.
+- Document architecture decisions, deployment steps, security controls and operational runbooks.
+- Contribute practical fixes and technical explanations to open-source projects.
+
+## Connect
+
+I welcome collaboration on cloud architecture, automation and DevOps projects. Explore my [technical writing](https://meenaljyotika.hashnode.dev) or connect on [LinkedIn](https://www.linkedin.com/in/meenal-jyotika/).
