@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/meenal-jyotika/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://meenaljyotika.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-Engineering_notes-2962FF?style=for-the-badge&amp;logo=hashnode" alt="Technical blog"/></a>
   <a href="https://github.com/MeenalJy?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_projects-24292F?style=for-the-badge&amp;logo=github" alt="Repositories"/></a>
 </p>
 
@@ -73,8 +71,12 @@ My goal is a reproducible platform with infrastructure code, automated delivery,
 
 <p align="center"><a href="https://github.com/MeenalJy?tab=achievements">Explore my GitHub achievements</a> · <a href="https://github.com/MeenalJy">Contribution activity</a></p>
 
-## Learn and collaborate
+## My engineering journal
 
-I share practical cloud and DevOps notes on [Hashnode](https://meenaljyotika.hashnode.dev). Connect on [LinkedIn](https://www.linkedin.com/in/meenal-jyotika/) to discuss infrastructure automation, cloud security and Kubernetes.
+GitHub is my home for engineering knowledge. I am beginning a fresh chapter: learning deeply, building hands-on projects, documenting troubleshooting and sharing what I discover through repository READMEs, labs and open-source contributions.
+
+- [Explore my repositories](https://github.com/MeenalJy?tab=repositories) for code, experiments and learning notes.
+- [Follow my GitHub profile](https://github.com/MeenalJy) to follow my progress.
+- Open an issue or pull request in a relevant repository to exchange ideas or collaborate.
 
 **Learn deeply. Build practically. Share openly.**
