@@ -51,14 +51,7 @@ I'm a Senior DevOps Engineer focused on secure AWS infrastructure, automation an
 
 ## My cloud-native learning roadmap
 
-```mermaid
-flowchart LR
-  A[Cloud foundations] --> B[Terraform]
-  B --> C[Kubernetes]
-  C --> D[CI/CD and GitOps]
-  D --> E[Security and observability]
-  E --> F[Document and share]
-```
+![Cloud-native learning roadmap: cloud foundations, Terraform, Kubernetes, CI/CD and GitOps, security and observability, and document and share](assets/cloud_native_learning_roadmap.png)
 
 My goal is a reproducible platform with infrastructure code, automated delivery, operational runbooks and practical troubleshooting examples. The roadmap represents ongoing learning, not completed production projects.
 
