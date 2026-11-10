@@ -1,6 +1,6 @@
 ![Meenal Jyotika — Build. Automate. Secure. Share.](assets/devops-banner.svg)
 
-<h2 align="center">Senior Cloud & DevOps Engineer</h2>
+<h2 align="center">AWS DevOps Engineer</h2>
 <p align="center"><strong>Build with purpose. Learn with curiosity. Share with humility.</strong></p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## About me
 
-I am a Senior DevOps Engineer with a background in AWS infrastructure, automation, cloud security and reliable delivery. I am building a fresh chapter in my engineering journey: deep hands-on practice, reproducible projects and knowledge that helps other engineers.
+I am a AWS DevOps Engineer with a background in AWS infrastructure, automation, cloud security and reliable delivery. I am building a fresh chapter in my engineering journey: deep hands-on practice, reproducible projects and knowledge that helps other engineers.
 
 - **Build:** Secure, scalable cloud infrastructure and reusable automation.
 - **Automate:** Infrastructure as Code, CI/CD pipelines and operational workflows.
