@@ -38,4 +38,4 @@ I build secure, reproducible cloud infrastructure and automation, and share prac
 
 ## Connect
 
-I welcome collaboration on cloud architecture, automation and DevOps projects. Explore my [technical writing](https://meenaljyotika.hashnode.dev) or connect on [LinkedIn](https://www.linkedin.com/in/meenal-jyotika/).
+I welcome collaboration on cloud architecture, automation and DevOps projects. 
