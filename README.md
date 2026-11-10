@@ -18,7 +18,7 @@ I build secure, reproducible cloud infrastructure and automation, and share prac
 
 | Project | Focus |
 | --- | --- |
-| [admin-access-detector](https://github.com/MeenalJy/admin-access-detector) | Cloud security project |
+| [admin-access-detector](https://github.com/MeenalJy/admin-access-detector) | Cloud security reference project; original author: Ayshwarya Mohan ([upstream repository](https://github.com/Aysh170820/admin-access-detector)) |
 | [Ansible_Arena](https://github.com/MeenalJy/Ansible_Arena) | Configuration management practice |
 | [docker-capabilities-demo](https://github.com/MeenalJy/docker-capabilities-demo) | Container capabilities demonstration |
 | [90DaysOfDevOps](https://github.com/MeenalJy/90DaysOfDevOps) | DevOps learning journey |
